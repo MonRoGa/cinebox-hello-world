@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304221162747",
+    "project_id": "cinebox-298da",
+    "storage_bucket": "cinebox-298da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304221162747:android:2b30e7829b6c531027f45e",
+        "android_client_info": {
+          "package_name": "com.example.cinebox_hello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Gptr9suWfh3_7CHLCi577GKTjdfmfKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
